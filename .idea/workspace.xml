@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d94fc938-880a-4c6f-97e8-206b16d97a8f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/state.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/tic-tac-toe.js" afterPath="$PROJECT_DIR$/src/tic-tac-toe.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,18 +35,8 @@
       <file leaf-file-name="tic-tac-toe.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/tic-tac-toe.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1598">
-              <caret line="94" column="9" lean-forward="true" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="state.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/state.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="277">
+              <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,7 +45,7 @@
       <file leaf-file-name="tic-tac-toe.spec.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/tic-tac-toe.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
+            <state relative-caret-position="356">
               <caret line="1419" column="50" lean-forward="true" selection-start-line="1419" selection-start-column="50" selection-end-line="1419" selection-end-column="50" />
               <folding />
             </state>
@@ -73,8 +65,8 @@
     <findStrings>
       <find>game = new TicTacToe();</find>
       <find>noMoreTurns()</find>
-      <find>getFieldValue</find>
       <find>console</find>
+      <find>getFieldValue</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -568,12 +560,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485797218596</updated>
-      <workItem from="1485797219863" duration="47326000" />
+      <workItem from="1485797219863" duration="48081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47326000" />
+    <option name="totallyTimeSpent" value="48081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="308" y="3" width="1447" height="1056" extended-state="0" />
@@ -644,22 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/state.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/tic-tac-toe.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="1419" column="50" lean-forward="true" selection-start-line="1419" selection-start-column="50" selection-end-line="1419" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
@@ -679,10 +655,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/tic-tac-toe.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="1419" column="50" lean-forward="true" selection-start-line="1419" selection-start-column="50" selection-end-line="1419" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/state.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/tic-tac-toe.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="94" column="9" lean-forward="true" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
+        <state relative-caret-position="277">
+          <caret line="98" column="0" lean-forward="true" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
           <folding />
         </state>
       </provider>
